@@ -6,3 +6,5 @@ https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1
 https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_1200/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1660592037&tk2=81352318068e17d85b7e5f975f29d73a23e013224c27c7bdc5d79f3b61d246dc
 #EXTINF:-1 tvg-id="Rai3" tvg-logo="undefined" group-title="Undefined",Rai3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 tvg-id="RaiNews24" tvg-logo="undefined" group-title="Undefined",RaiNews24
+https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1660505707&tof=86400&tk2=3779d5c09dd3878f6d3cc4954c555531eb08aacd7be207bf18f3691507ec106c
