@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="Undefined",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="Rai1" tvg-logo="undefined" group-title="Undefined",Rai1
+https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_2400/chunklist.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1660591753&tk2=34dc6a59c330771edfacbd5a7ff5b5ecf7409006a065c6fa7817232e07b9253b
 #EXTINF:-1 tvg-id="Rai3" tvg-logo="undefined" group-title="Undefined",Rai3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
