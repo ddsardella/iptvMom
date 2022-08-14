@@ -10,3 +10,9 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1660505707&tof=86400&tk2=3779d5c09dd3878f6d3cc4954c555531eb08aacd7be207bf18f3691507ec106c
 #EXTINF:-1 tvg-id="SkyTg24" tvg-logo="undefined" group-title="Undefined",SkyTg24
 https://dai.google.com/linear/hls/pa/event/eG_v9uiRSoerzfv8aOJN3A/stream/ac950b8d-0565-4246-9a17-71c976419a91:GRQ/variant/f43ae1c981fd9b21678e2df98435b129/bandwidth/3096037.m3u8
+#EXTINF: -1, Rete 4
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF: -1, Canale 5
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF: -1, Italia 1
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
