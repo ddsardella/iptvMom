@@ -1,18 +1,18 @@
-#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="Undefined",La7
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="Rai1" tvg-logo="undefined" group-title="Undefined",Rai1
+#EXTINF:-1 tvg-id="Rai1" tvg-logo="undefined",Rai1
 https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiuno1/hls/rai1_2400/chunklist.m3u8?baseuri=%2Fraiuno1%2Fhls%2F&tstart=0&tend=1660591753&tk2=34dc6a59c330771edfacbd5a7ff5b5ecf7409006a065c6fa7817232e07b9253b
-#EXTINF:-1 tvg-id="Rai2" tvg-logo="undefined" group-title="Undefined",Rai2
+#EXTINF:-1 tvg-id="Rai2" tvg-logo="undefined",Rai2
 https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/rai2_1200/chunklist.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1660592037&tk2=81352318068e17d85b7e5f975f29d73a23e013224c27c7bdc5d79f3b61d246dc
-#EXTINF:-1 tvg-id="Rai3" tvg-logo="undefined" group-title="Undefined",Rai3
+#EXTINF:-1 tvg-id="Rai3" tvg-logo="undefined",Rai3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 tvg-id="RaiNews24" tvg-logo="undefined" group-title="Undefined",RaiNews24
+#EXTINF:-1 tvg-id="RaiNews24" tvg-logo="undefined",RaiNews24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8?baseuri=%2Frainews1%2Fhls%2F&tstart=0&tend=1660505707&tof=86400&tk2=3779d5c09dd3878f6d3cc4954c555531eb08aacd7be207bf18f3691507ec106c
-#EXTINF:-1 tvg-id="SkyTg24" tvg-logo="undefined" group-title="Undefined",SkyTg24
+#EXTINF:-1 tvg-id="SkyTg24" tvg-logo="undefined",SkyTg24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dai.google.com/linear/hls/pa/event/eG_v9uiRSoerzfv8aOJN3A/stream/ecaae842-c2d1-4740-ab13-6e0288361110:DUB/master.m3u8
-#EXTINF:-1 tvg-id="SkyTg24-4k" tvg-logo="undefined" group-title="Undefined",SkyTg24-4k
+#EXTINF:-1 tvg-id="SkyTg24-4k" tvg-logo="undefined",SkyTg24-4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dai.google.com/linear/hls/pa/event/eG_v9uiRSoerzfv8aOJN3A/stream/68262694-cc3b-4843-a219-b626abf45698:GRQ/variant/f43ae1c981fd9b21678e2df98435b129/bandwidth/3096037.m3u8
 #EXTINF: -1, Rete 4
