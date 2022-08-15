@@ -15,18 +15,18 @@ https://dai.google.com/linear/hls/pa/event/eG_v9uiRSoerzfv8aOJN3A/stream/ecaae84
 #EXTINF:-1 tvg-id="SkyTg24-4k" tvg-logo="undefined",SkyTg24-4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dai.google.com/linear/hls/pa/event/eG_v9uiRSoerzfv8aOJN3A/stream/68262694-cc3b-4843-a219-b626abf45698:GRQ/variant/f43ae1c981fd9b21678e2df98435b129/bandwidth/3096037.m3u8
-#EXTINF: -1, Rete 4
+#EXTINF: -1 tvg-id="Rete 4" tvg-logo="undefined", Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF: -1, Canale 5
+#EXTINF: -1 tvg-id="Canale 5" tvg-logo="undefined", Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
-#EXTINF: -1, Italia 1
+#EXTINF: -1 tvg-id="Italia 1" tvg-logo="undefined", Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1,[51] TGCOM 24
+#EXTINF:-1 tvg-id="TGCOM 24" tvg-logo="undefined",[51] TGCOM 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1,TV8
+#EXTINF:-1 tvg-id="TV8" tvg-logo="undefined",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/stream01/hdntl=exp=1660661501~acl=%2f*~data=hdntl~hmac=e86059f0ecbd620a966914ad40a5c534b7d72526f0cf1594de7a45e77e7751fd/streamPlaylist.m3u8
