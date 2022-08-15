@@ -12,7 +12,7 @@ https://streamcdnr13-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rai
 #EXTINF:-1 tvg-id="SkyTg24" tvg-logo="undefined" group-title="Undefined",SkyTg24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dai.google.com/linear/hls/pa/event/eG_v9uiRSoerzfv8aOJN3A/stream/ecaae842-c2d1-4740-ab13-6e0288361110:DUB/master.m3u8
-#EXTINF:-1 tvg-id="SkyTg24" tvg-logo="undefined" group-title="Undefined",SkyTg24-4k
+#EXTINF:-1 tvg-id="SkyTg24-4k" tvg-logo="undefined" group-title="Undefined",SkyTg24-4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dai.google.com/linear/hls/pa/event/eG_v9uiRSoerzfv8aOJN3A/stream/68262694-cc3b-4843-a219-b626abf45698:GRQ/variant/f43ae1c981fd9b21678e2df98435b129/bandwidth/3096037.m3u8
 #EXTINF: -1, Rete 4
