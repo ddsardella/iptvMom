@@ -24,3 +24,6 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index
 #EXTINF:-1,[51] TGCOM 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1,TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/stream01/hdntl=exp=1660661501~acl=%2f*~data=hdntl~hmac=e86059f0ecbd620a966914ad40a5c534b7d72526f0cf1594de7a45e77e7751fd/streamPlaylist.m3u8
